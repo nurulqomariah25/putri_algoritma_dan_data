@@ -1,0 +1,1 @@
+print("nilai 10 lebih dari 5")
